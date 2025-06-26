@@ -2,12 +2,12 @@
 <h3 align="center">Fullstack Developer | Passionate about creating efficient, modern, and well-thought-out solutions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=00FFAA&vCenter=true&center=true&lines=Systems+Engineer;Fullstack+Developer;Optimization+Fan;Software+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=00FFAA&vCenter=true&center=true&lines=Systems+Engineer;Fullstack+Developer;Software+Developer" />
 </p>
 
 <p align="center">
   <a href="README.es.md">
-    <img src="https://img.shields.io/badge/🌐 Read in Spanish-000?style=for-the-badge&logo=googletranslate&logoColor=white" />
+    <img src="https://img.shields.io/badge/ Read in Spanish-000?style=for-the-badge&logo=googletranslate&logoColor=white" />
   </a>
 </p>
 

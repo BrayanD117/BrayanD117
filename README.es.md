@@ -1,32 +1,32 @@
-<h1 align="center">👋 Hi, I'm Brayan Patiño</h1>
-<h3 align="center">Fullstack Developer | Passionate about creating efficient, modern, and well-thought-out solutions</h3>
+<h1 align="center">👋 Hola, soy Brayan Patiño</h1>
+<h3 align="center">Desarrollador Fullstack | Apasionado por crear soluciones eficientes, modernas y bien pensadas</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=00FFAA&vCenter=true&center=true&lines=Systems+Engineer;Fullstack+Developer;Optimization+Fan;Software+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=00FFAA&vCenter=true&center=true&lines=Ingeniero+de+Sistemas;Desarrollador+Fullstack;Fan+de+la+optimización;Desarrollador+de+Software" />
 </p>
 
 <p align="center">
-  <a href="README.es.md">
-    <img src="https://img.shields.io/badge/🌐 Read in Spanish-000?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/🌐 Leer en Inglés-000?style=for-the-badge&logo=googletranslate&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mí
 
-- 🎓 Systems Engineer - Universidad de Ibagué
-- 💼 Fullstack Developer focused on quality, scalability, and automation
-- 🧠 Always learning, always iterating
-- 📫 Contact: **brayandavid1928@gmail.com**
+- 🎓 Ingeniero de Sistemas - Universidad de Ibagué
+- 💼 Desarrollador Fullstack con enfoque en calidad, escalabilidad y automatización
+- 🧠 Siempre aprendiendo, siempre iterando
+- 📫 Contacto: **brayandavid1928@gmail.com**
 
 ---
 
-## 🔗 My Portfolio
+## 🔗 Mi Portafolio
 
 <p align="center">
   <a href="https://www.brayanpatino.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 View my portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐 Ver mi portafolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -45,14 +45,14 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
-### 🗃️ Databases  
+### 🗃️ Bases de Datos  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 
-### ☁️ DevOps and Cloud  
+### ☁️ DevOps y Cloud  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
@@ -60,43 +60,41 @@
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
-### 🧑‍💻 Operating Systems  
+### 🧑‍💻 Sistemas Operativos  
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
 ---
 
-
-## 📈 Statistics
+## 📈 Estadísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BrayanD117&show_icons=true&theme=radical" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrayanD117&theme=radical" width="47%" />
 </p>
 
-## 💻 Most Used Languages
+## 💻 Lenguajes más usados
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanD117&layout=compact&theme=radical" />
 </p>
 
-
 ---
 
-## 🧪 Featured Projects
+## 🧪 Proyectos Destacados
 
-- 🎯 **MIRÓ** – Institutional platform for university accreditation processes  
-  🌐 [miro.uibague.edu.co](https://miro.unibague.edu.co/)
+- 🎯 **MIRÓ** – Plataforma institucional para procesos de acreditación universitaria  
+  🌐 [miro.uibague.edu.co](https://miro.uibague.edu.co/)
 
-- 🎲 **Rifetón** – Raffle platform: management of draws, sales, payments, and more  
+- 🎲 **Rifetón** – Plataforma de rifas: gestión de sorteos, ventas, pagos y más  
   🌐 [elrifeton.com](https://elrifeton.com)
 
-- 📱 **QRKeep** – 100% free QR code generator, frontend-only  
+- 📱 **QRKeep** – Generador de códigos QR 100% gratuito y frontend-only  
   🌐 [qrkeep.vercel.app](https://qrkeep.vercel.app)
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Conectemos
 
 <p align="center">
   <a href="https://www.linkedin.com/in/brayan-pati%C3%B1o-07a995220/" target="_blank">

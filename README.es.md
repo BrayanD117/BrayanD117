@@ -45,9 +45,13 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
+### 🛠️ ORMs  
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)  
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white)
+
 ### 🗃️ Bases de Datos  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
@@ -90,7 +94,7 @@
   🌐 [elrifeton.com](https://elrifeton.com)
 
 - 📱 **QRKeep** – Generador de códigos QR 100% gratuito y frontend-only  
-  🌐 [qrkeep.vercel.app](https://qrkeep.vercel.app)
+  🌐 [qr.brayanpatino.com](https://qr.brayanpatino.com)
 
 ---
 

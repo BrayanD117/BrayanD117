@@ -17,7 +17,7 @@
 
 - 🎓 Systems Engineer - Universidad de Ibagué
 - 💼 Fullstack Developer focused on quality, scalability, and automation
-- 🧠 Always learning, always iterating
+- 🧠 Always learning
 - 📫 Contact: **brayandavid1928@gmail.com**
 
 ---

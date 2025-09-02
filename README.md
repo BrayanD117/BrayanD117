@@ -98,7 +98,7 @@
   🌐 [miro.uibague.edu.co](https://miro.unibague.edu.co/)
 
 - 🎲 **Rifetón** – Raffle platform: management of draws, sales, payments, and more  
-  🌐 [elrifeton.com](https://elrifeton.com)
+  🌐 [elrifeton.com](https://elrifeton.com.co)
 
 - 📱 **QRKeep** – 100% free QR code generator, frontend-only  
   🌐 [qr.brayanpatino.com](https://qr.brayanpatino.com)

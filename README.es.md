@@ -17,7 +17,7 @@
 
 - 🎓 Ingeniero de Sistemas - Universidad de Ibagué
 - 💼 Desarrollador Fullstack con enfoque en calidad, escalabilidad y automatización
-- 🧠 Siempre aprendiendo, siempre iterando
+- 🧠 Siempre aprendiendo
 - 📫 Contacto: **brayandavid1928@gmail.com**
 
 ---
@@ -97,7 +97,7 @@
   🌐 [miro.uibague.edu.co](https://miro.uibague.edu.co/)
 
 - 🎲 **Rifetón** – Plataforma de rifas: gestión de sorteos, ventas, pagos y más  
-  🌐 [elrifeton.com](https://elrifeton.com)
+  🌐 [elrifeton.com.co](https://elrifeton.com.co)
 
 - 📱 **QRKeep** – Generador de códigos QR 100% gratuito y frontend-only  
   🌐 [qr.brayanpatino.com](https://qr.brayanpatino.com)
